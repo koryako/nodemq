@@ -1,3 +1,11 @@
+
+该项目计划做一个高并发集群框架
+
+实用redis+多cpu 线程
+
+
+
+
 # nodemq
 nodejs redis queue
 一个NodeJS和redis做的基于http协议使用的队列 做了点小修改 支持多个队列和post提交
